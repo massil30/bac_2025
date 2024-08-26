@@ -8,6 +8,8 @@ List<String> falsafaCalculateur = [
   "الرياضيات",
   "العلوم الإسلامية",
 ];
+
+//sazkskamslazl
 List<String> falsafaMawad = [
   "الفلسفة",
   "اللغة العربية",
