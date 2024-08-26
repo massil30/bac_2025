@@ -1,5 +1,6 @@
 import 'package:bac_2025/Introduction.dart';
 import 'package:bac_2025/home.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -7,6 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 var x;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   final SharedPreferencesWithCache prefsWithCache =
       await SharedPreferencesWithCache.create(
     cacheOptions: const SharedPreferencesWithCacheOptions(

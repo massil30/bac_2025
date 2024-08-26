@@ -229,10 +229,10 @@ class _CalculaturPageState extends State<CalculaturPage> {
                                         autovalidateMode:
                                             AutovalidateMode.always,
                                         decoration: InputDecoration(
-                                          hintText: "15.5",
+                                          hintText: "00/20",
                                           hintStyle: TextStyle(
                                               fontWeight: FontWeight.w200,
-                                              color: textT),
+                                              color: Colors.grey[400]),
                                           fillColor:
                                               Color.fromRGBO(1, 6, 12, 1),
                                           errorStyle: TextStyle(
@@ -365,10 +365,10 @@ class _CalculaturPageState extends State<CalculaturPage> {
                                         autovalidateMode:
                                             AutovalidateMode.always,
                                         decoration: InputDecoration(
-                                          hintText: "15.5",
+                                          hintText: "00/20",
                                           hintStyle: TextStyle(
                                               fontWeight: FontWeight.w200,
-                                              color: textT),
+                                              color: Colors.grey[400]),
                                           fillColor:
                                               Color.fromRGBO(1, 6, 12, 1),
                                           errorStyle: TextStyle(
@@ -525,8 +525,9 @@ class _CalculaturPageState extends State<CalculaturPage> {
             style: TextStyle(color: textT),
             autovalidateMode: AutovalidateMode.always,
             decoration: InputDecoration(
-              hintText: "15.5",
-              hintStyle: TextStyle(fontWeight: FontWeight.w200, color: textT),
+              hintText: "00/20",
+              hintStyle: TextStyle(
+                  fontWeight: FontWeight.w200, color: Colors.grey[400]),
               fillColor: Color.fromRGBO(1, 6, 12, 1),
               errorStyle:
                   TextStyle(height: 0, fontSize: 10), // Keep error text minimal

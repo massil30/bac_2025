@@ -80,9 +80,16 @@ class _PDFTESTState extends State<PDFTEST> with AutomaticKeepAliveClientMixin {
                             context: context,
                             dialogType: DialogType.error,
                             title: "الانترنات منقطع",
-                            body: Text(
-                              "يرجى الاتصال بشبكة لكي تتم عملية التحميل",
-                              style: TextStyle(fontFamily: "Cairo"),
+                            body: Directionality(
+                              textDirection: TextDirection.rtl,
+                              child: Padding(
+                                padding: EdgeInsets.only(
+                                    left: 15, bottom: 15, right: 15),
+                                child: Text(
+                                  "!يرجى الاتصال بشبكة لكي تتم عملية التحميل",
+                                  style: TextStyle(fontFamily: "Cairo"),
+                                ),
+                              ),
                             )).show();
                     ;
                   },
