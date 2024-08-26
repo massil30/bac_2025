@@ -8,7 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 var x;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
+//main
   final SharedPreferencesWithCache prefsWithCache =
       await SharedPreferencesWithCache.create(
     cacheOptions: const SharedPreferencesWithCacheOptions(
