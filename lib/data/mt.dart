@@ -1,5 +1,7 @@
 import 'package:bac_2025/data/gestion.dart';
 
+//Math Technique Calculatrice
+List<int> mtMo3amilat = [7, 6, 6, 3, 2, 2, 2, 2, 2];
 List<String> mtCalculatur = [
   "تكنولوجيا",
   "رياضيات",
@@ -13,7 +15,7 @@ List<String> mtCalculatur = [
   "التربية البدنية",
   "الامازيغية",
 ];
-List<int> mtMo3amilat = [7, 6, 6, 3, 2, 2, 2, 2, 2];
+//Math Technique Les Sujets
 List<String> mtMawad = [
   "الهندسة الكهربائية",
   "الهندسة المدنية",

@@ -40,6 +40,9 @@ List<String> gestionIconsMawad = [
   "images/langueges.png",
 ];
 List _mathUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-ge.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2019.pdf",
@@ -52,6 +55,9 @@ List _mathUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2012.pdf"
 ];
 List _managementUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-economy-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-economy-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-economy-ge.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2019.pdf",
@@ -64,6 +70,9 @@ List _managementUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-bac2012.pdf"
 ];
 List _hisAndGeo = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-ge.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2019.pdf",
@@ -91,6 +100,9 @@ List _arabicUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-sci-bac2012.pdf"
 ];
 List _mohasabaUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-gestion-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-gestion-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-gestion-ge.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2021.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2020.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2019.pdf",
@@ -179,11 +191,16 @@ List falsafaGEMTUrls = [
   "https://firebasestorage.googleapis.com/v0/b/helpdz.appspot.com/o/philosophy-gemt-bac2012.pdf?alt=media&token=14762ff8-b6e9-4139-8f6e-2e5500e6a558"
 ];
 List _rulesUrl = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-droit-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-droit-ge.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-droit-ge.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2019.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2018.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2017.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-bac2016.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2015.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2014.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2013.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2012.pdf"
@@ -203,6 +220,9 @@ List listaMawadi3Gestion = [
 ];
 //Holol
 List _mathUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-ge_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2019-correction.pdf",
@@ -215,6 +235,9 @@ List _mathUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-ge-bac2012-correction.pdf"
 ];
 List _managementUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-economy-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-economy-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-economy-ge_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-ge-bac2019-correction.pdf",
@@ -227,6 +250,9 @@ List _managementUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/economy-bac2012-correction.pdf"
 ];
 List _hisAndGeoS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-ge_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-ge-bac2019-correction.pdf",
@@ -254,6 +280,9 @@ List _arabicUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-sci-bac2012-correction.pdf"
 ];
 List _mohasabaUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-gestion-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-gestion-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-gestion-ge_correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2021-correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2020-correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/gestion-ge-bac2019-correction.pdf",
@@ -281,9 +310,9 @@ List _englishUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-sci-bac2012-correction.pdf"
 ];
 List _frenchUrlsS = [
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-sci.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-sci.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-sci.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-sci-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-sci-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-sci_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-sci-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-sci-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-sci-bac2019-correction.pdf",
@@ -341,11 +370,16 @@ List falsafaGEMTUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philosophy-mtge-bac2012-correction.pdf"
 ];
 List _rulesUrlS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-droit-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-droit-ge-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-droit-ge_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2019-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2018-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-ge-bac2017-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-bac2016-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/droit-bac2015-correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2014-correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2013-correction.pdf",
   "https://ency-education.com/uploads/3/0/9/3/309326/droit-bac2012-correction.pdf"
@@ -353,13 +387,13 @@ List _rulesUrlS = [
 List listaHololGestion = [
   _mohasabaUrlsS,
   _managementUrlsS,
-  _rulesUrlS,
+  _hisAndGeoS,
   _mathUrlsS,
+  _rulesUrlS,
   _arabicUrlsS,
   _frenchUrlsS,
   _englishUrlsS,
   _islamiyaUrlsS,
-  _hisAndGeoS,
   falsafaGEMTUrlsS,
   _thamazightUrlsS,
 ];

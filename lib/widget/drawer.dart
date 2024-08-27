@@ -111,7 +111,7 @@ drawer(backgroud, texT, context) {
                   return AlertDialog(
                     backgroundColor: backgroud,
                     title: Text(
-                      'حول التطبيق',
+                      "منصات التواصل",
                       style: TextStyle(
                           fontSize: 24.0, // Bigger font size for the title
                           fontWeight: FontWeight.bold,

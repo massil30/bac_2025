@@ -50,8 +50,8 @@ class _FirstPageState extends State<FirstPage> {
                               alignment: Alignment.centerRight,
                               margin: EdgeInsets.all(8),
                               child: Icon(
-                                Icons.list,
-                                size: 35,
+                                Icons.menu,
+                                size: 30,
                                 color: textT,
                               ))),
                       Center(
