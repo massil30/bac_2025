@@ -1,3 +1,16 @@
+//Calculatrice les langues
+List mo3amilatlanguages = [5, 5, 5, 4, 2, 2, 2, 2];
+List languagesCalculateur = [
+  "اللغة العربية",
+  "اللغة الفرنسية",
+  "اللغة الانجليزية",
+  'لغة اجنبية ثالثة',
+  "تاريخ و جغرافيا",
+  "رياضيات",
+  "علوم اسلامية",
+  "فلسفة",
+];
+//Les Sujets Les langues
 List<String> languagesMawad = [
   "اللغة العربية",
   "اللغة الفرنسية",
@@ -11,17 +24,7 @@ List<String> languagesMawad = [
   "الرياضيات",
   "الأمازيغية"
 ];
-List languagesCalculateur = [
-  "اللغة العربية",
-  "اللغة الفرنسية",
-  "اللغة الانجليزية",
-  'لغة اجنبية ثالثة',
-  "تاريخ و جغرافيا",
-  "رياضيات",
-  "علوم اسلامية",
-  "فلسفة",
-];
-List mo3amilatlanguages = [5, 5, 5, 4, 2, 2, 2, 2];
+
 List<String> languagesIconsMawad = [
   "images/langueges.png",
   "images/langueges.png",

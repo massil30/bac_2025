@@ -1,4 +1,4 @@
-//Mo3amilat
+//Mo3amilat for all
 int mo3amil_Math = 28;
 int mo3amil_Mt = 32;
 int mo3amil_Science = 29;
@@ -6,6 +6,30 @@ int mo3amil_Gestion = 33;
 int mo3amil_langues = 27;
 int mo3amil_falsafa = 26;
 
+//Mathelam Calculatrice
+List<String> mathelemeMawadCal = [
+  "الرياضيات",
+  "العلوم الفيزيائية",
+  "اللغة العربية",
+  "التاريخ و الجغرافيا",
+  "العلوم الطبيعية",
+  "اللغة الانجليزية",
+  "اللغة الفرنسية",
+  "العلوم الاسلامية",
+  "الفلسفة",
+];
+List mathMoamilat = [
+  7,
+  6,
+  3,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2,
+];
+//Les Sujets Mathelame
 List<String> mathelemeMawad = [
   "الرياضيات",
   "العلوم الفيزيائية",
@@ -18,28 +42,7 @@ List<String> mathelemeMawad = [
   "العلوم الاسلامية",
   "الفلسفة"
 ];
-List<String> mathelemeMawadCal = [
-  "الرياضيات",
-  "العلوم الفيزيائية",
-  "التاريخ و الجغرافيا",
-  "اللغة العربية",
-  "العلوم الطبيعية",
-  "اللغة الانجليزية",
-  "اللغة الفرنسية",
-  "العلوم الاسلامية",
-  "الفلسفة",
-];
-List mathMoamilat = [
-  7,
-  6,
-  2,
-  3,
-  2,
-  2,
-  2,
-  2,
-  2,
-];
+
 List<String> mathelemeIconsMawad = [
   "images/pi.png",
   "images/phisyque.png",

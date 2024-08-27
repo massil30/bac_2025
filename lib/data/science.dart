@@ -1,13 +1,5 @@
-List mo3amilatScience = [
-  6,
-  5,
-  5,
-  3,
-  2,
-  2,
-  2,
-  2,
-];
+//Calculatrice Science
+List mo3amilatScience = [6, 5, 5, 3, 2, 2, 2, 2, 2];
 List scienceCalculatur = [
   "علوم الطبيعية",
   "علوم فيزيائية",
@@ -15,9 +7,12 @@ List scienceCalculatur = [
   "لغة عربية",
   "لغة انجليزية",
   "لغة فرنسية",
-  "فلسفة",
   "تاريخ و جغرافيا",
+  "العلوم الاسلامية",
+  "فلسفة",
 ];
+
+//Les Sujets Science
 List<String> scientistMawad = [
   "العلوم الطبيعية",
   "العلوم الفيزيائية",

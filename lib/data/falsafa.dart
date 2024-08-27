@@ -1,3 +1,4 @@
+//Calculatice Philo
 List mo3amilatFalsafa = [6, 6, 4, 3, 3, 2, 2];
 List<String> falsafaCalculateur = [
   "الفلسفة",
@@ -8,8 +9,7 @@ List<String> falsafaCalculateur = [
   "الرياضيات",
   "العلوم الإسلامية",
 ];
-
-//sazkskamslazl
+//Les Sujets Philo
 List<String> falsafaMawad = [
   "الفلسفة",
   "اللغة العربية",

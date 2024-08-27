@@ -1,14 +1,5 @@
-List<int> mo3amilatGestion = [
-  6,
-  5,
-  5,
-  4,
-  3,
-  2,
-  2,
-  2,
-  2,
-];
+//Gestion Calculatrice
+List<int> mo3amilatGestion = [6, 5, 5, 4, 3, 2, 2, 2, 2, 2];
 List<String> gestionCalculatur = [
   "تسيير المحاسبي المالي",
   "الاقتصاد و المناجمانت",
@@ -18,8 +9,10 @@ List<String> gestionCalculatur = [
   "القانون",
   "لغة انجليزية",
   "لغة فرنسية",
+  "العلوم الاسلامية",
   "فلسفة",
 ];
+//Les Sujets
 List<String> gestionMawad = [
   "تسيير المحاسبي المالي",
   "الاقتصاد و المناجمانت",
