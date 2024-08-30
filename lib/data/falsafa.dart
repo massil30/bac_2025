@@ -47,6 +47,9 @@ List _mathUrls = [
 ];
 
 List _hisAndGeo = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-lp.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2019.pdf",
@@ -59,6 +62,9 @@ List _hisAndGeo = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2012.pdf",
 ];
 List _arabicUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-arabic-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-arabic-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-arabic-lp.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2019.pdf",
@@ -72,6 +78,9 @@ List _arabicUrls = [
 ];
 
 List _englishUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-english-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-english-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-english-lp.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2019.pdf",
@@ -84,6 +93,9 @@ List _englishUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2012.pdf"
 ];
 List _frenchUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-lp.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2019.pdf",
@@ -127,6 +139,9 @@ List _islamiyaUrls = [
 ];
 
 List _falsafaUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-philo-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-philo-lp.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-philo-lp.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philosophy-lp-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-lp-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-lp-bac2019.pdf",
@@ -167,6 +182,9 @@ List _mathUrlsS = [
 ];
 
 List _hisAndGeoS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-lp_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2019-correction.pdf",
@@ -179,6 +197,9 @@ List _hisAndGeoS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-lp-bac2012-correction.pdf",
 ];
 List _arabicUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-arabic-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-arabic-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-arabic-lp_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-lp-bac2019-correction.pdf",
@@ -192,6 +213,9 @@ List _arabicUrlsS = [
 ];
 
 List _englishUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-english-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-english-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-english-lp_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2019-correction.pdf",
@@ -204,6 +228,9 @@ List _englishUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-lp-bac2012-correction.pdf"
 ];
 List _frenchUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-lp_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-lp-bac2019-correction.pdf",
@@ -246,6 +273,9 @@ List _islamiyaUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/islamic-bac2012-correction.pdf",
 ];
 List _falsafaUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-philo-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-philo-lp-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-philo-lp_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philosophy-lp-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-lp-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-lp-bac2019-correction.pdf",
