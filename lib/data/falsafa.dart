@@ -31,16 +31,19 @@ List<String> falsafaIconsMawad = [
   "images/langueges.png",
 ];
 List _mathUrls = [
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2021.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2020.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2019.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2018.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2017.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2016.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2015.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2014.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2013.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2012.pdf"
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-lit.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-lit.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-lit.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2021.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2020.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2019.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2018.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2017.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2016.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2015.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2014.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2013.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2012.pdf"
 ];
 
 List _hisAndGeo = [
@@ -148,16 +151,19 @@ List listaMawadi3Falsafa = [
 //Holol
 
 List _mathUrlsS = [
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2021-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2020-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2019-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2018-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2017-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2016-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2015-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2014-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2013-correction.pdf",
-  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-mt-bac2012-correction.pdf"
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-lit-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-lit-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-lit_correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2021-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2020-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2019-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2018-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2017-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2016-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2015-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2014-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2013-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2012-correction.pdf"
 ];
 
 List _hisAndGeoS = [

@@ -39,6 +39,9 @@ List<String> languagesIconsMawad = [
   "images/langueges.png",
 ];
 List mathLetterUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-lit.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-lit.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-lit.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2019.pdf",
@@ -51,6 +54,9 @@ List mathLetterUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2012.pdf"
 ];
 List _spanishUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-spanish-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-spanish-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-spanish-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2019.pdf",
@@ -63,6 +69,9 @@ List _spanishUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-bac2012.pdf"
 ];
 List _germanyUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-german-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-german-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-german-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2019.pdf",
@@ -75,6 +84,9 @@ List _germanyUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-bac2012.pdf"
 ];
 List _hisAndGeo = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2019.pdf",
@@ -87,6 +99,9 @@ List _hisAndGeo = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2012.pdf"
 ];
 List _arabicUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-arabic-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-arabic-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-arabic-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2019.pdf",
@@ -99,6 +114,9 @@ List _arabicUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2012.pdf"
 ];
 List _italiaUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-italian-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-italian-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-italian-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2019.pdf",
@@ -108,6 +126,9 @@ List _italiaUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2015.pdf",
 ];
 List _englishUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-english-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-english-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac202-english-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2019.pdf",
@@ -120,6 +141,9 @@ List _englishUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2012.pdf"
 ];
 List _frenchUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2019.pdf",
@@ -162,6 +186,9 @@ List _islamiyaUrls = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/islamic-bac2012.pdf",
 ];
 List _falsafaUrls = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-philo-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-philo-le.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-philo-le.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philosophy-le-bac2021.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-le-bac2020.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-le-bac2019.pdf",
@@ -188,6 +215,9 @@ List listaMawadi3Languages = [
 ];
 //Holol
 List _spanishUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-spanish-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-spanish-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-spanish-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-le-bac2019-correction.pdf",
@@ -200,6 +230,9 @@ List _spanishUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/spanish-bac2012-correction.pdf"
 ];
 List _germanyUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-german-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-german-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-german-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-le-bac2019-correction.pdf",
@@ -212,6 +245,9 @@ List _germanyUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/german-bac2012-correction.pdf"
 ];
 List _hisAndGeoS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-hisgeo-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-hisgeo-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-hisgeo-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2019-correction.pdf",
@@ -224,6 +260,9 @@ List _hisAndGeoS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/hisgeo-le-bac2012-correction.pdf"
 ];
 List _arabicUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-arabic-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-arabic-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-arabic-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2019-correction.pdf",
@@ -236,6 +275,9 @@ List _arabicUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/arabic-le-bac2012-correction.pdf"
 ];
 List _italiaUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-italian-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-italian-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-italian-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2019-correction.pdf",
@@ -245,6 +287,9 @@ List _italiaUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/italian-le-bac2015-correction.pdf",
 ];
 List _englishUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-english-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-english-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-english-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2019-correction.pdf",
@@ -257,6 +302,9 @@ List _englishUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/english-le-bac2012-correction.pdf"
 ];
 List _frenchUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-french-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-french-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-french-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/french-le-bac2019-correction.pdf",
@@ -299,6 +347,9 @@ List _islamiyaUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/islamic-bac2012-correction.pdf",
 ];
 List mathLetterUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-math-lit-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-math-lit-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-math-lit_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2019-correction.pdf",
@@ -311,6 +362,9 @@ List mathLetterUrlsS = [
   "https://www.ency-education.com/uploads/3/0/9/3/309326/math-lit-bac2012-correction.pdf"
 ];
 List _falsafaUrlsS = [
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2024-philo-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2023-philo-le-correction.pdf",
+  "https://www.ency-education.com/uploads/3/0/9/3/309326/bac2022-philo-le_correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philosophy-le-bac2021-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-le-bac2020-correction.pdf",
   "https://www.ency-education.com/uploads/3/0/9/3/309326/philo-le-bac2019-correction.pdf",

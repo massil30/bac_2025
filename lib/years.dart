@@ -45,7 +45,7 @@ class Years extends StatelessWidget {
             margin: EdgeInsets.only(bottom: 6),
             child: ListView.builder(
               padding: EdgeInsets.zero,
-              itemCount: name == "اللغة الإيطالية" ? 7 : years.length,
+              itemCount: name == "اللغة الإيطالية" ? 10 : years.length,
               itemBuilder: (context, index) {
                 return InkWell(
                   onTap: () {
