@@ -210,17 +210,3 @@ class _SubjectScreenState extends State<SubjectScreen> {
     return SfPdfViewer.network(widget.sujets);
   }
 }
-
-
-// PDF.network(widget.solution,
-//           placeHolder: const Center(
-//             child: CircularProgressIndicator(
-//                 color: Colors.green, backgroundColor: Colors.white),
-//           )),
-
-
-//  PDF.network(widget.sujets,
-//         placeHolder: const Center(
-//           child: CircularProgressIndicator(
-//               color: Colors.green, backgroundColor: Colors.white),
-//         ));
